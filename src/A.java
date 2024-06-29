@@ -16,7 +16,7 @@ public static void main(String[] args)
     {
 
         B a=new B();
-        int x=2;
+
         System.out.println(a.c);
 
 }

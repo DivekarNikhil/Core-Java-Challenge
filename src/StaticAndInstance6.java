@@ -12,7 +12,7 @@ public class StaticAndInstance6 {
     public static void main(String[] args) {
 
         StaticAndInstance6 st=new StaticAndInstance6();
-        //st.sblock();
+        st.sblock();
 
     }
 }
